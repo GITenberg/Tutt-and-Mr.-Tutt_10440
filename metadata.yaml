@@ -1,0 +1,28 @@
+_repo: Tutt-and-Mr.-Tutt_10440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Attorney and client -- Fiction'
+- !lcsh 'Law firms -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Legal stories'
+- !lcc 'PS'
+- GITenberg
+title: Tutt and Mr. Tutt
+url: http://www.gutenberg.org/ebooks/10440
